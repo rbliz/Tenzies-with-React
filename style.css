@@ -50,22 +50,22 @@ main {
 }
 
 .shape-one{
-    background: linear-gradient(322deg, greenyellow 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, greenyellow 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
+    background: linear-gradient(322deg, rgba(173,255,47,1) 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, rgba(173,255,47,1) 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
 }
 .shape-two{
-    background: linear-gradient(290deg, greenyellow 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, greenyellow 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
+    background: linear-gradient(290deg, rgba(173,255,47,1) 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, rgba(173,255,47,1) 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
 }
 .shape-three{
-    background: linear-gradient(300deg, greenyellow 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, greenyellow 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
+    background: linear-gradient(300deg, rgba(173,255,47,1) 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, rgba(173,255,47,1) 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
 }
 .shape-four{
-    background: linear-gradient(342deg, greenyellow 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, greenyellow 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
+    background: linear-gradient(342deg, rgba(173,255,47,1) 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, rgba(173,255,47,1) 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
 }
 .shape-five{
-    background: linear-gradient(32deg, greenyellow 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, greenyellow 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
+    background: linear-gradient(32deg, rgba(173,255,47,1) 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, rgba(173,255,47,1) 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
 }
 .shape-six{
-    background: linear-gradient(42deg, greenyellow 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, greenyellow 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
+    background: linear-gradient(42deg, rgba(173,255,47,1) 29%, rgba(28,28,28,1) 29%, rgba(28,28,28,1) 40%, rgba(43,46,39,1) 40%, rgba(173,255,47,1) 48%, rgba(28,28,28,1) 48%, rgba(28,28,28,1) 92%, rgba(113,174,33,1) 92%, rgba(113,174,33,1) 100%);
 }
 .shape-one,
 .shape-two,
@@ -73,7 +73,7 @@ main {
 .shape-four,
 .shape-five,
 .shape-six{
-     width: 100%;
+    width: 100%;
     height: 100%;
     border: none;
     border-radius: 8px;
